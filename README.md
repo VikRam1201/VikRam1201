@@ -6,7 +6,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
-<h2>About Me </h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me </h2>
 
 - 🔭 I’m currently working on **Sharpening my analysis skills**
 - 💬 Ask me about **Data Visualization , Data Handling**
@@ -23,4 +23,10 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchugeja&theme=nightowl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikRam1201&theme=nightowl&layout=compact)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VikRam1201&show_icons=true&theme=nightowl)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VikRam1201&theme=radical)](https://git.io/streak-stats)
+
